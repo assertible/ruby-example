@@ -1,5 +1,3 @@
-
-
 # Post-deploy testing pipeline example in Ruby with Assertible and Codeship
 
 This is an example of **an automated post-deployment testing
@@ -8,7 +6,7 @@ API. The project
 uses [Codehsip](https://codeship.com), [Heroku](https://heroku.com),
 and [assertible](https://assertible).
 
-## How it work
+## How it works
 
 1. Push code to a repository, which is picked up a Codeship.
 2. Have a custom deploy script in Codeship to deliver the application
