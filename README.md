@@ -9,9 +9,8 @@ and [assertible](https://assertible).
 ## How it works
 
 1. Push code to a repository, which is picked up a Codeship.
-2. Have a custom deploy script in Codeship to deliver the application
-   to Heroku.
-3. Send a deployment event to Assertible to execute a series of API
+2. Create a [deployment pipeline in Codeship](https://documentation.codeship.com/basic/getting-started/deployment-pipelines/) that delivers the app to Heroku.
+3. [Send a deployment event to Assertible](https://assertible.com/docs/guide/deployments) to execute a series of API
    tests on the new app.
 
 ## License
