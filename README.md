@@ -1,4 +1,6 @@
-# Post-deploy testing pipeline example in Ruby with Assertible and Codeship
+# Add post deploy smoke tests to any Codeship pipeline
+
+[![Assertible status](https://assertible.com/apis/d1d4c735-9afc-42d9-970a-f5b1cc797152/status?api_token=8b55a286830323effb)](https://assertible.com) [![Codeship status](https://codeship.com/projects/1f082380-f64b-0134-b0e6-5e8fac69f0da/status?branch=master)](https://codeship.com)
 
 This is an example of **an automated post-deployment testing
 pipeline** on staging and production environments, with a sample Ruby
