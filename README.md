@@ -6,7 +6,7 @@ This is an example of **an automated post-deployment testing
 pipeline** on staging and production environments, with a sample Ruby
 API. The project
 uses [Codehsip](https://codeship.com), [Heroku](https://heroku.com),
-and [assertible](https://assertible).
+and [assertible](https://assertible.com).
 
 ## How it works
 
