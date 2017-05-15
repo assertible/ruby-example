@@ -12,6 +12,8 @@ API. The project
 uses [Codehsip](https://codeship.com), [Heroku](https://heroku.com),
 and [assertible](https://assertible.com).
 
+[**Read the full post on Codeship**](https://blog.codeship.com/add-post-deploy-smoke-tests-to-any-codeship-pipeline/)
+
 ## How it works
 
 1. Push code to a repository, which is picked up a Codeship.
