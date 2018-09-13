@@ -1,18 +1,28 @@
-# Add post deploy smoke tests to any Codeship pipeline
+<div align="center">
+  <a href="https://assertible.com" target="_blank">
+    <img src="https://assertible.com/images/logo/logo-horizontal-512x.png" width="256" alt="Assertible logo" title="Testing a Node.js API with Assertible"/>
+  </a>
+  <h2>Automated post-deploy testing with Codeship and Assertible</h2>
+  <hr/>
+  <a href="https://assertible.com/">
+    <img title="Assertible test status - production" src="https://assertible.com/apis/d1d4c735-9afc-42d9-970a-f5b1cc797152/status?api_token=8b55a286830323effb"/>
+  </a>
+  <a href="https://assertible.com">
+      <img title="Assertible test status - staging" src="https://assertible.com/apis/d1d4c735-9afc-42d9-970a-f5b1cc797152/status?api_token=8b55a286830323effb&environment=staging"/>
+  </a>
+  <a href="https://codeship.com">
+      <img title="Assertible status" src="https://codeship.com/projects/1f082380-f64b-0134-b0e6-5e8fac69f0da/status?branch=master"/>
+  </a>
+  <br/>
+</div>
 
-Production tests: [![Assertible status](https://assertible.com/apis/d1d4c735-9afc-42d9-970a-f5b1cc797152/status?api_token=8b55a286830323effb)](https://assertible.com)
-
-Staging tests: [![Assertible status](https://assertible.com/apis/d1d4c735-9afc-42d9-970a-f5b1cc797152/status?api_token=8b55a286830323effb&environment=staging)](https://assertible.com)
-
-Codeship build: [![Codeship status](https://codeship.com/projects/1f082380-f64b-0134-b0e6-5e8fac69f0da/status?branch=master)](https://codeship.com)
+[**Codeship blog: Add post-deployment testing to your build using Assertible**](https://blog.codeship.com/add-post-deploy-smoke-tests-to-any-codeship-pipeline/)
 
 This is an example of **an automated post-deployment testing
 pipeline** on staging and production environments, with a sample Ruby
 API. The project
 uses [Codehsip](https://codeship.com), [Heroku](https://heroku.com),
 and [assertible](https://assertible.com).
-
-[**Read the full post on Codeship**](https://blog.codeship.com/add-post-deploy-smoke-tests-to-any-codeship-pipeline/)
 
 ## How it works
 
